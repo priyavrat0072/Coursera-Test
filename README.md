@@ -1,2 +1,2 @@
-# Coursera-Test
-HTML,CSS&lt;JS
+Learning HTML,CSS,JS
+Coursera Course
